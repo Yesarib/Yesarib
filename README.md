@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Barış Yesari</h1>
 <h3 align="center">Curious of web development</h3>
-<img align="right" alt="coding" witdh="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yesarib&label=Profile%20views&color=0e75b6&style=flat" alt="yesarib" /> </p>
+
+<img align="center" alt="coding" width="1000" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 
 <p align="left"> <a href="https://twitter.com/yesaribariss" target="blank"><img src="https://img.shields.io/twitter/follow/yesaribariss?logo=twitter&style=for-the-badge" alt="yesaribariss" /></a> </p>
 
@@ -31,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesarib&show_icons=true&locale=en" alt="yesarib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesarib&" alt="yesarib" /></p>
+
