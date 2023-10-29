@@ -6,9 +6,7 @@
 
 ### <div align="center">I'm Barış Yesari, Curious of web development 👨‍💻</div>  
 
-- 🔭 I’m currently working on [ZenPods](https://github.com/Yesarib/Podcast)
-
-- 🔭 I’m currently working on [A Blockchain ](https://github.com/Yesarib/Blockchain)  
+- 🔭 I’m currently working on [ZenPods](https://github.com/Taxii-App/Back-end)
 
   
   
