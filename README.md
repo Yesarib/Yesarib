@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Barış Yesari, Curious of web development 👨‍💻</div>  
+## <div align="center">Barış Yesari</div>  
 
 - 🔭 I’m currently working on [TaxiApp](https://github.com/Taxii-App/Back-end)
 
