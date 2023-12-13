@@ -6,13 +6,8 @@
 
 ## <div align="center">Barış Yesari</div>  
 
-- 🔭 I’m currently working on [TaxiApp](https://github.com/Taxii-App/Back-end)
-
-  
-  
-
-
-  
+- 📫 To reach me yesaribaris23@gmail.com
+- 🔭 I’m currently working on Typescript
 
 - 🌱 I’m currently learning Node.js and React.
   
@@ -21,9 +16,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Yesarib" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/yesaribariss" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
