@@ -7,9 +7,9 @@
 ## <div align="center">Barış Yesari</div>  
 
 - 📫 To reach me yesaribaris23@gmail.com
-- 🔭 I’m currently working on Typescript
+- 🔭 I’m currently working on Go
 
-- 🌱 I’m currently learning Node.js and React.
+- 🌱 I’m currently learning Go
   
 
 <br/>  
