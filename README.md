@@ -7,9 +7,7 @@
 ## <div align="center">Barış Yesari</div>  
 
 - 📫 To reach me yesaribaris23@gmail.com
-- 🔭 I’m currently working on Web 3.0
-
-- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently focus on Full Stack Development
   
 
 <br/>  
